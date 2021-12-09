@@ -1,0 +1,109 @@
+*{margin: 0;padding: 0;text-decoration: none;
+background-color: #000000;}
+
+header{
+  width: 100%; height: 1280px;
+  background-image: url(./img/sub02_main.png);
+}
+
+header nav{
+  padding-top: 89px;
+  padding-left: 92px;
+  width: 130px;
+  height: 580px;
+  display: block;
+  justify-content: left;
+  align-items: center;
+}
+
+header nav ul li{
+  width: 130px;
+  height: 107px;
+  display: block;
+  justify-content: left;
+  align-items: center;
+}
+
+header nav ul li a{
+  color: #FFFFFF;
+  text-transform: lowercase;
+  font-size: 1.2em;
+  transition: 0.5s;
+  display: flex;
+  justify-content: center;
+}
+
+header nav ul li a:hover{
+  color: #cecece;
+  font-size: 1.5em;
+  transition: 0.4s;
+}
+
+.menu2{height: 310px;}
+.menu4{font-size: 1.3em;}
+
+.square1{
+  margin-left: 924px;
+  margin-bottom: 800px;
+}
+
+.square2{
+  margin-left: 924px;
+  margin-bottom: 800px;
+}
+
+.square3{
+  margin-left: 924px;
+  margin-bottom: 600px;
+}
+
+.square4{
+  margin-left: 924px;
+  margin-bottom: 600px;
+}
+
+.square5{
+  margin-left: 924px;
+  margin-bottom: 600px;
+}
+
+.빛의교회{
+  margin-left: 460px;
+  margin-bottom: 500px;
+  display: flex;
+}
+
+.폴리대극장{
+  margin-left: 420px;
+  margin-bottom: 500px;
+}
+
+.글라스하우스{
+  margin-left: 400px;
+  margin-bottom: 500px;
+}
+
+.베네세하우스{
+  margin-left: 300px;
+  margin-bottom: 500px;
+}
+
+.뮤지엄산{
+  margin-left: 420px;
+  margin-bottom: 500px;
+}
+
+.지중미술관{
+  margin-left: 400px;
+  margin-bottom: 280px;
+}
+
+footer{
+  width: 100%;
+  height: 60px;
+  margin-top: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+}
